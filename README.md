@@ -1,0 +1,3 @@
+- Hi, I’m @JoshuaF1345
+- I am Studying Computing(Final year) at Southampton Solent
+- This Github will be a portfolio of both my unfinished college and Uni projects and side projects
